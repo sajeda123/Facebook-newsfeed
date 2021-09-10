@@ -1,0 +1,25 @@
+.CommentForm input {
+  border: 0;
+  width: 270px;
+  height: 40px;
+  padding: 0 20px;
+  margin: 20px 20px 10px 0px;
+  font-size: 18px;
+  border-radius: 10px;
+  background-color: rgb(240, 231, 231);
+}
+
+.CommentForm input:focus,
+.CommentForm button:focus {
+  outline: none;
+}
+
+.CommentForm button {
+  border: 0;
+  width: 80px;
+  height: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bolder;
+  background-color: rgb(240, 231, 231);
+}

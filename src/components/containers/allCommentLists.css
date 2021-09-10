@@ -1,0 +1,18 @@
+.list {
+  background-color: rgb(204, 201, 179);
+  height: 35px;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+.list p {
+  padding: 5px;
+  position: relative;
+}
+
+.faicon {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.content {
+  position: relative;
+}
+.image-wrapper {
+  position: relative;
+}
+.menu-bar {
+  position: absolute;
+  right: 680px;
+  background-color: white;
+}
